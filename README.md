@@ -4,7 +4,7 @@
 
 Red light will be displayed for 10 seconds, Yellow light for 5 seconds and Green light for 15 seconds. The output will be continued until the system is reset.
 
-2. Use 8086 Interfacing Trainer in Kit mode to display lettersE, F, and H in an8x8 dot matrix LED with a delay of 5 seconds between each display. The output will be continued until the system is reset.
+2. Use 8086 Interfacing Trainer in Kit mode to display letters E, F, and H in an 8x8 dot matrix LED with a delay of 5 seconds between each display. The output will be continued until the system is reset.
 
 3. Use 8086 Interfacing Trainer in Kit mode to display digits 1, 2, and 3 in a 7-Segment LED with a delay of 5 seconds between each display. The output will be continued until the system is reset.
 
